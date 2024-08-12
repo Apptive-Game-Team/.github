@@ -4,7 +4,7 @@ Welcome to the official GitHub organization of Apptive Game Team!
 
 ## About Us
 Apptive의 산하 해적단입니다. 해치지 않아요.<br/>
-We are Pirate Crew Under Apptive. We are totally harmless.
+We are pirate crew under [Apptive](https://github.com/ApptiveDev). We are totally harmless.
 
 ## Projects
 Here are some of the projects we are working on:
