@@ -3,18 +3,21 @@
 Welcome to the official GitHub organization of Apptive Game Team!
 
 ## About Us
-Apptive의 산하 해적단입니다.
+Apptive의 산하 해적단입니다. 해치지 않아요.<br/>
+We are Pirate Crew Under Apptive. We are totally harmless.
 
 ## Projects
 Here are some of the projects we are working on:
 - [Word Venture](https://github.com/Apptive-Game-Team/WordVenture)
+- [Lucy](https://github.com/Apptive-Game-Team/Lucy)
 
+  
 ## Contact
 
 
 
 ## Team Member
-
+### 2024-1
 <table>
   <tr>
     <td align="center" width="200px">
