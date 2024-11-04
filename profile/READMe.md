@@ -10,6 +10,7 @@ We are pirate crew under [Apptive](https://github.com/ApptiveDev). We are totall
 Here are some of the projects we are working on:
 - [Word Venture](https://github.com/Apptive-Game-Team/WordVenture)
 - [Lucy](https://github.com/Apptive-Game-Team/Lucy)
+- [GyeMong](https://github.com/Apptive-Game-Team/GyeMong)
 
   
 ## Contact
