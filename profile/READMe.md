@@ -20,6 +20,27 @@ Here are some of the projects we are working on:
 ## Team Member
 ### 2024-1
 <table>
+        <tr>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+  </tr>
   <tr>
     <td align="center" width="200px">
       <a href="https://github.com/Monolong" target="_blank">
@@ -74,4 +95,29 @@ Here are some of the projects we are working on:
       </a>
     </td>
   </tr>
+</table>
+
+### 2024-2
+
+<table>
+          <tr>
+    <td align="center">
+        디자이너
+      </a>
+    </td>
+  <tr>
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/cheese1006" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/181458108?v=4" alt="배시연 프로필" />
+      </a>
+    </td>    
+  </tr>
+    <tr>
+    <td align="center">
+      <a href="https://github.com/Monolong" target="_blank">
+        배시연
+      </a>
+    </td>
+    </tr>
 </table>
