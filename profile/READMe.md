@@ -105,6 +105,34 @@ Here are some of the projects we are working on:
         디자이너
       </a>
     </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
   <tr>
       </td>
     <td align="center" width="200px">
@@ -112,11 +140,88 @@ Here are some of the projects we are working on:
         <img src="https://avatars.githubusercontent.com/u/181458108?v=4" alt="배시연 프로필" />
       </a>
     </td>    
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/snorlax914" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/124159686?v=4" alt="김휘수 프로필" />
+      </a>
+    </td>    
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/jdkyu44" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/173862139?v=4" alt="장대규 프로필" />
+      </a>
+    </td>    
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/sul1074" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/144888312?v=4" alt="설종환 프로필" />
+      </a>
+    </td>    
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/dohyoi" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/165551215?v=4" alt="김도형 프로필" />
+      </a>
+    </td>    
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/reductant01" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/150095806?v=4" alt="황원제 프로필" />
+      </a>
+    </td>    
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/Vackam" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/53655740?v=4" alt="이요환 프로필" />
+      </a>
+    </td>    
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/yj0602" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/169279674?v=4" alt="노윤지 프로필" />
+      </a>
+    </td>    
   </tr>
     <tr>
     <td align="center">
-      <a href="https://github.com/Monolong" target="_blank">
+      <a href="https://github.com/cheese1006" target="_blank">
         배시연
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/snorlax914" target="_blank">
+        김휘수
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jdkyu44" target="_blank">
+        장대규
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sul1074" target="_blank">
+        설종환
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dohyoi" target="_blank">
+        김도형
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/reductant01" target="_blank">
+        황원제
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Vackam" target="_blank">
+        이요환
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yj0602" target="_blank">
+        노윤지
       </a>
     </td>
     </tr>
