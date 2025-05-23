@@ -11,7 +11,8 @@ Here are some of the projects we are working on:
 - [Word Venture](https://github.com/Apptive-Game-Team/WordVenture)
 - [Lucy](https://github.com/Apptive-Game-Team/Lucy)
 - [GyeMong](https://github.com/Apptive-Game-Team/GyeMong)
-
+- [Cross The Line](https://github.com/Apptive-Game-Team/Cross-The-Line)
+- Word Online [Client](https://github.com/Apptive-Game-Team/WordOnlineClient) [Server](https://github.com/Apptive-Game-Team/WordOnlineServer)
   
 ## Contact
 
@@ -222,6 +223,31 @@ Here are some of the projects we are working on:
     <td align="center">
       <a href="https://github.com/yj0602" target="_blank">
         노윤지
+      </a>
+    </td>
+    </tr>
+</table>
+
+### 2025-1
+
+<table>
+          <tr>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+  <tr>
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/jungse8609" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/69056797?v=4" alt="정국경 프로필" />
+      </a>
+    </td>    
+  </tr>
+    <tr>
+    <td align="center">
+      <a href="https://github.com/jungse8609" target="_blank">
+        정국경
       </a>
     </td>
     </tr>
