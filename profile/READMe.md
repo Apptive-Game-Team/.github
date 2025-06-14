@@ -13,10 +13,10 @@ Here are some of the projects we are working on:
 - [GyeMong](https://github.com/Apptive-Game-Team/GyeMong)
 - [Cross The Line](https://github.com/Apptive-Game-Team/Cross-The-Line)
 - Word Online [Client](https://github.com/Apptive-Game-Team/WordOnlineClient) [Server](https://github.com/Apptive-Game-Team/WordOnlineServer)
-- [Tangvivor](https://github.com/Apptive-Game-Team/tangvivor)
 #### Completed
 - [Word Venture](https://github.com/Apptive-Game-Team/WordVenture)
 - [Lucy](https://github.com/Apptive-Game-Team/Lucy)
+- [Tangvivor](https://github.com/Apptive-Game-Team/tangvivor)
 
 ## Contact
 
