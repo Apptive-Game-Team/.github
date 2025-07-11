@@ -12,7 +12,7 @@ Here are some of the projects we are working on:
 #### In Progress
 - [GyeMong](https://github.com/Apptive-Game-Team/GyeMong)
 - [Cross The Line](https://github.com/Apptive-Game-Team/Cross-The-Line)
-- Word Online [Client](https://github.com/Apptive-Game-Team/WordOnlineClient) [Server](https://github.com/Apptive-Game-Team/WordOnlineServer)
+- [Word Online](https://github.com/Apptive-Game-Team/WordOnline_Play) [Client](https://github.com/Apptive-Game-Team/WordOnlineClient) [Server](https://github.com/Apptive-Game-Team/WordOnlineServer)
 #### Completed
 - [Word Venture](https://github.com/Apptive-Game-Team/WordVenture)
 - [Lucy](https://github.com/Apptive-Game-Team/Lucy)
