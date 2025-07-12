@@ -10,9 +10,10 @@ We are pirate crew under [Apptive](https://github.com/ApptiveDev). We are totall
 Here are some of the projects we are working on:
 
 #### In Progress
-- [GyeMong](https://github.com/Apptive-Game-Team/GyeMong)
+- [GyeMong](https://apptive-game-team.github.io/GyeMong_Play/) [repo](https://github.com/Apptive-Game-Team/GyeMong)
+
 - [Cross The Line](https://github.com/Apptive-Game-Team/Cross-The-Line)
-- [Word Online](https://apptive-game-team.github.io/WordOnline_Play/) [Client](https://github.com/Apptive-Game-Team/WordOnlineClient) [Server](https://github.com/Apptive-Game-Team/WordOnlineServer)
+- [Word Online](https://apptive-game-team.github.io/WordOnline_Play/) repos: [Client](https://github.com/Apptive-Game-Team/WordOnlineClient) [Server](https://github.com/Apptive-Game-Team/WordOnlineServer)
 #### Completed
 - [Word Venture](https://github.com/Apptive-Game-Team/WordVenture)
 - [Lucy](https://github.com/Apptive-Game-Team/Lucy)
