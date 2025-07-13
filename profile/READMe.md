@@ -9,15 +9,24 @@ We are pirate crew under [Apptive](https://github.com/ApptiveDev). We are totall
 ## Projects
 Here are some of the projects we are working on:
 
-#### In Progress
-- [GyeMong](https://apptive-game-team.github.io/GyeMong_Play/) [repo](https://github.com/Apptive-Game-Team/GyeMong)
+## 🔨 In Progress
 
-- [Cross The Line](https://github.com/Apptive-Game-Team/Cross-The-Line)
-- [Word Online](https://apptive-game-team.github.io/WordOnline_Play/) repos: [Client](https://github.com/Apptive-Game-Team/WordOnlineClient) [Server](https://github.com/Apptive-Game-Team/WordOnlineServer)
-#### Completed
-- [Word Venture](https://github.com/Apptive-Game-Team/WordVenture)
-- [Lucy](https://github.com/Apptive-Game-Team/Lucy)
-- [Tangvivor](https://github.com/Apptive-Game-Team/tangvivor)
+| Project | Repo | Play |
+|---------|------|------|
+| **GyeMong** | [📂 Repo](https://github.com/Apptive-Game-Team/GyeMong) | [▶️ Play](https://apptive-game-team.github.io/GyeMong_Play/) |
+| **Cross The Line** | [📂 Repo](https://github.com/Apptive-Game-Team/Cross-The-Line) | - |
+| **Word Online** | [📂 Client](https://github.com/Apptive-Game-Team/WordOnlineClient)<br>[📂 Server](https://github.com/Apptive-Game-Team/WordOnlineServer) | [▶️ Play](https://apptive-game-team.github.io/WordOnline_Play/) |
+
+---
+
+## ✅ Completed
+
+| Project | Repo | Play |
+|---------|------|------|
+| **Word Venture** | [📂 Repo](https://github.com/Apptive-Game-Team/WordVenture) | [▶️ Play](https://apptive-game-team.github.io/WordVenture_Play/) |
+| **Lucy** | [📂 Repo](https://github.com/Apptive-Game-Team/Lucy) | - |
+| **Tangvivor** | [📂 Repo](https://github.com/Apptive-Game-Team/tangvivor) | - |
+
 
 ## Contact
 
