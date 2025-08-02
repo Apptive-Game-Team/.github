@@ -67,7 +67,7 @@ Here are some of the projects we are working on:
       </a>
     </td>
     <td align="center" width="200px">
-      <a href="https://github.com/YunseongJeong" target="_blank">
+      <a href="https://github.com/dev-yunseong" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/88422717?v=4" alt="정윤성 프로필" />
       </a>
     </td>
@@ -249,18 +249,78 @@ Here are some of the projects we are working on:
         개발자
       </a>
     </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
   <tr>
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/KimJ6" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/125845014?v=4" alt="김재식 프로필" />
+      </a>
+    </td>    
       </td>
     <td align="center" width="200px">
       <a href="https://github.com/jungse8609" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/69056797?v=4" alt="정국경 프로필" />
       </a>
     </td>    
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/anjihong" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/85050405?v=4" alt="안지홍 프로필" />
+      </a>
+    </td>     
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/Jimin-K04" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/173872163?v=4" alt="김지민 프로필" />
+      </a>
+    </td>
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/GaMaius" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/109564500?v=4" alt="지우가람 프로필" />
+      </a>
+    </td>   
   </tr>
     <tr>
     <td align="center">
       <a href="https://github.com/jungse8609" target="_blank">
+        김재식
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jungse8609" target="_blank">
         정국경
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jungse8609" target="_blank">
+        안지홍
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jungse8609" target="_blank">
+        김지민
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jungse8609" target="_blank">
+        지우가람
       </a>
     </td>
     </tr>
