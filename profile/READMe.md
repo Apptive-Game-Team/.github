@@ -15,7 +15,7 @@ Here are some of the projects we are working on:
 |---------|------|------|
 | **GyeMong** | [📂 Repo](https://github.com/Apptive-Game-Team/GyeMong) | [▶️ Play](https://apptive-game-team.github.io/GyeMong_Play/) |
 | **Cross The Line** | [📂 Repo](https://github.com/Apptive-Game-Team/Cross-The-Line) | - |
-| **Word Online** | [📂 Client](https://github.com/Apptive-Game-Team/WordOnlineClient)<br>[📂 Server](https://github.com/Apptive-Game-Team/WordOnlineServer) | [▶️ Play](https://apptive-game-team.github.io/WordOnline_Play/) |
+| **Word Online** | [📂 Client](https://github.com/Apptive-Game-Team/WordOnlineClient)<br>[📂 Server](https://github.com/Apptive-Game-Team/WordOnlineServer)<br>[📂 Admin](https://github.com/Apptive-Game-Team/WordOnlineAdmin) | [▶️ Play](https://apptive-game-team.github.io/WordOnline_Play/) |
 
 ---
 
