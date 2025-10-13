@@ -34,7 +34,8 @@ Here are some of the projects we are working on:
 
 
 ## Team Member
-### 2024-1
+### 2025-2
+
 <table>
         <tr>
     <td align="center">
@@ -56,61 +57,197 @@ Here are some of the projects we are working on:
     <td align="center">
         개발자
       </a>
-  </tr>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        디자이너
+      </a>
+    </td>
+    <td align="center">
+        디자이너
+      </a>
+    </td>
   <tr>
+      </td>
     <td align="center" width="200px">
-      <a href="https://github.com/Monolong" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/83206119?v=4" alt="문성필 프로필" />
+      <a href="https://github.com/KimJ6" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/38881169?v=4" alt="Luke 프로필" />
+      </a>
+    </td>    
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/jungse8609" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/57861332?v=4" alt="noojam 프로필" />
+      </a>
+    </td>    
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/anjihong" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/62923872?v=4" alt="장현빈 프로필" />
+      </a>
+    </td>     
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/Jimin-K04" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/137674190?v=4" alt="이천서 프로필" />
+      </a>
+    </td>
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/GaMaius" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/201758889?v=4" alt="김창은 프로필" />
       </a>
     </td>
     <td align="center" width="200px">
-      <a href="https://github.com/Gimlocal" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/127363458?v=4" alt="김현진 프로필" />
+      <a href="https://github.com/GaMaius" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/220556467?v=4" alt="이현호 프로필" />
       </a>
     </td>
     <td align="center" width="200px">
-      <a href="https://github.com/dev-yunseong" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/88422717?v=4" alt="정윤성 프로필" />
+      <a href="https://github.com/GaMaius" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/237536936?v=4" alt="이은교 프로필" />
       </a>
     </td>
     <td align="center" width="200px">
-      <a href="https://github.com/Jinwook700" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/127014921?v=4" alt="정진욱 프로필" />
+      <a href="https://github.com/GaMaius" target="_blank">
+        <img src="" alt="박민정 프로필" />
       </a>
-    </td>
-    <td align="center" width="200px">
-      <a href="https://github.com/hwanginseop" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/163392234?v=4" alt="황인섭 프로필" />
-      </a>
-    </td>
+    </td> 
   </tr>
+    <tr>
+    <td align="center">
+      <a href="https://github.com/Luke0103" target="_blank">
+        Luke
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/noojam" target="_blank">
+        noojam
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/voac" target="_blank">
+        장현빈
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/BeepBeepMaeae" target="_blank">
+        이천서
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/EunGeunHi" target="_blank">
+        김창은
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hyunho03" target="_blank">
+        이현호
+      </a>
+    </td>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ujboung" target="_blank">
+        이은교
+      </a>
+    </td>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Apptive-Game-Team" target="_blank">
+        박민정
+      </a>
+    </td>
+    </tr>
+</table>
+
+
+
+### 2025-1
+
+<table>
+          <tr>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
+    <td align="center">
+        개발자
+      </a>
+    </td>
   <tr>
-    <td align="center">
-      <a href="https://github.com/Monolong" target="_blank">
-        문성필
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/KimJ6" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/125845014?v=4" alt="김재식 프로필" />
+      </a>
+    </td>    
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/jungse8609" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/69056797?v=4" alt="정국경 프로필" />
+      </a>
+    </td>    
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/anjihong" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/85050405?v=4" alt="안지홍 프로필" />
+      </a>
+    </td>     
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/Jimin-K04" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/173872163?v=4" alt="김지민 프로필" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/Gimlocal" target="_blank">
-        김현진
+      </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/GaMaius" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/109564500?v=4" alt="지우가람 프로필" />
       </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/YunseongJeong" target="_blank">
-        정윤성
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Jinwook700" target="_blank">
-        정진욱
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hwanginseop" target="_blank">
-        황인섭
-      </a>
-    </td>
+    </td>   
   </tr>
+    <tr>
+    <td align="center">
+      <a href="https://github.com/jungse8609" target="_blank">
+        김재식
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jungse8609" target="_blank">
+        정국경
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jungse8609" target="_blank">
+        안지홍
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jungse8609" target="_blank">
+        김지민
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jungse8609" target="_blank">
+        지우가람
+      </a>
+    </td>
+    </tr>
 </table>
 
 ### 2024-2
@@ -243,93 +380,9 @@ Here are some of the projects we are working on:
     </tr>
 </table>
 
-### 2025-1
 
-<table>
-          <tr>
-    <td align="center">
-        개발자
-      </a>
-    </td>
-    <td align="center">
-        개발자
-      </a>
-    </td>
-    <td align="center">
-        개발자
-      </a>
-    </td>
-    <td align="center">
-        개발자
-      </a>
-    </td>
-    <td align="center">
-        개발자
-      </a>
-    </td>
-  <tr>
-      </td>
-    <td align="center" width="200px">
-      <a href="https://github.com/KimJ6" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/125845014?v=4" alt="김재식 프로필" />
-      </a>
-    </td>    
-      </td>
-    <td align="center" width="200px">
-      <a href="https://github.com/jungse8609" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/69056797?v=4" alt="정국경 프로필" />
-      </a>
-    </td>    
-      </td>
-    <td align="center" width="200px">
-      <a href="https://github.com/anjihong" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/85050405?v=4" alt="안지홍 프로필" />
-      </a>
-    </td>     
-      </td>
-    <td align="center" width="200px">
-      <a href="https://github.com/Jimin-K04" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/173872163?v=4" alt="김지민 프로필" />
-      </a>
-    </td>
-      </td>
-    <td align="center" width="200px">
-      <a href="https://github.com/GaMaius" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/109564500?v=4" alt="지우가람 프로필" />
-      </a>
-    </td>   
-  </tr>
-    <tr>
-    <td align="center">
-      <a href="https://github.com/jungse8609" target="_blank">
-        김재식
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jungse8609" target="_blank">
-        정국경
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jungse8609" target="_blank">
-        안지홍
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jungse8609" target="_blank">
-        김지민
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jungse8609" target="_blank">
-        지우가람
-      </a>
-    </td>
-    </tr>
-</table>
 
-### 2025-2
-
+### 2024-1
 <table>
         <tr>
     <td align="center">
@@ -351,108 +404,59 @@ Here are some of the projects we are working on:
     <td align="center">
         개발자
       </a>
-    </td>
-    <td align="center">
-        개발자
-      </a>
-    </td>
-    <td align="center">
-        디자이너
-      </a>
-    </td>
-    <td align="center">
-        디자이너
-      </a>
-    </td>
-  <tr>
-      </td>
-    <td align="center" width="200px">
-      <a href="https://github.com/KimJ6" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/38881169?v=4" alt="Luke 프로필" />
-      </a>
-    </td>    
-      </td>
-    <td align="center" width="200px">
-      <a href="https://github.com/jungse8609" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/57861332?v=4" alt="noojam 프로필" />
-      </a>
-    </td>    
-      </td>
-    <td align="center" width="200px">
-      <a href="https://github.com/anjihong" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/62923872?v=4" alt="장현빈 프로필" />
-      </a>
-    </td>     
-      </td>
-    <td align="center" width="200px">
-      <a href="https://github.com/Jimin-K04" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/137674190?v=4" alt="이천서 프로필" />
-      </a>
-    </td>
-      </td>
-    <td align="center" width="200px">
-      <a href="https://github.com/GaMaius" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/201758889?v=4" alt="김창은 프로필" />
-      </a>
-    </td>
-    <td align="center" width="200px">
-      <a href="https://github.com/GaMaius" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/220556467?v=4" alt="이현호 프로필" />
-      </a>
-    </td>
-    <td align="center" width="200px">
-      <a href="https://github.com/GaMaius" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/237536936?v=4" alt="이은교 프로필" />
-      </a>
-    </td>
-    <td align="center" width="200px">
-      <a href="https://github.com/GaMaius" target="_blank">
-        <img src="" alt="박민정 프로필" />
-      </a>
-    </td> 
   </tr>
-    <tr>
+  <tr>
+    <td align="center" width="200px">
+      <a href="https://github.com/Monolong" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/83206119?v=4" alt="문성필 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/Gimlocal" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/127363458?v=4" alt="김현진 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/dev-yunseong" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/88422717?v=4" alt="정윤성 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/Jinwook700" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/127014921?v=4" alt="정진욱 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/hwanginseop" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/163392234?v=4" alt="황인섭 프로필" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
-      <a href="https://github.com/Luke0103" target="_blank">
-        Luke
+      <a href="https://github.com/Monolong" target="_blank">
+        문성필
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/noojam" target="_blank">
-        noojam
+      <a href="https://github.com/Gimlocal" target="_blank">
+        김현진
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/voac" target="_blank">
-        장현빈
+      <a href="https://github.com/YunseongJeong" target="_blank">
+        정윤성
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/BeepBeepMaeae" target="_blank">
-        이천서
+      <a href="https://github.com/Jinwook700" target="_blank">
+        정진욱
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/EunGeunHi" target="_blank">
-        김창은
+      <a href="https://github.com/hwanginseop" target="_blank">
+        황인섭
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/hyunho03" target="_blank">
-        이현호
-      </a>
-    </td>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ujboung" target="_blank">
-        이은교
-      </a>
-    </td>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Apptive-Game-Team" target="_blank">
-        박민정
-      </a>
-    </td>
-    </tr>
+  </tr>
 </table>
