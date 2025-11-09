@@ -13,7 +13,7 @@ Here are some of the projects we are working on:
 
 | Project | Repo | Play |
 |---------|------|------|
-| **GyeMong** | [📂 Repo](https://github.com/Apptive-Game-Team/GyeMong) | [▶️ Play](https://apptive-game-team.github.io/GyeMong_Play/) |
+| **GyeMong** | [📂 Repo](https://github.com/Apptive-Game-Team/GyeMong) | [▶️ Play](https://gye-mong.vercel.app/) |
 | **Cross The Line** | [📂 Repo](https://github.com/Apptive-Game-Team/Cross-The-Line) | - |
 | **Word Online** | [📂 Client](https://github.com/Apptive-Game-Team/WordOnlineClient)<br>[📂 Server](https://github.com/Apptive-Game-Team/WordOnlineServer)<br>[📂 Admin](https://github.com/Apptive-Game-Team/WordOnlineAdmin) | [▶️ Play](https://word-online.vercel.app/)<br>[📱 Andorid](https://play.google.com/store/apps/details?id=com.team6515.wordonline) |
 | **Drilling** | [📂 Repo](https://github.com/Apptive-Game-Team/Drilling) | - |
