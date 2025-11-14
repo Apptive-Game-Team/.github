@@ -18,6 +18,7 @@ Here are some of the projects we are working on:
 | **Word Online** | [📂 Client](https://github.com/Apptive-Game-Team/WordOnlineClient)<br>[📂 Server](https://github.com/Apptive-Game-Team/WordOnlineServer)<br>[📂 Admin](https://github.com/Apptive-Game-Team/WordOnlineAdmin) | [▶️ Play](https://word-online.vercel.app/)<br>[📱 Andorid](https://play.google.com/store/apps/details?id=com.team6515.wordonline) |
 | **Drilling** | [📂 Repo](https://github.com/Apptive-Game-Team/Drilling) | - |
 | **MORA** | [📂 Repo](https://github.com/Gimlocal/MORA) | [▶️ Play](https://gimlocal.github.io/MORA_Play/) |
+| **Avocado Survival** | [📂 Repo](https://github.com/Apptive-Game-Team/AvocadoSurvival) | - |
 
 ---
 
