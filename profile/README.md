@@ -27,7 +27,7 @@ Here are some of the projects we are working on:
 | Project | Repo | Play |
 |---------|------|------|
 | **Word Venture** | [📂 Repo](https://github.com/Apptive-Game-Team/WordVenture) | [▶️ Play](https://apptive-game-team.github.io/WordVenture_Play/) |
-| **Lucy** | [📂 Repo](https://github.com/Apptive-Game-Team/Lucy) | - |
+| **Lucy** | [📂 Repo](https://github.com/Apptive-Game-Team/Lucy) |[▶️ Play](https://apptive-game-team.github.io/Lucy/)|
 | **Tangvivor** | [📂 Repo](https://github.com/Apptive-Game-Team/tangvivor) | - |
 
 
