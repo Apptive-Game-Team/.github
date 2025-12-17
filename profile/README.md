@@ -75,47 +75,47 @@ Here are some of the projects we are working on:
   <tr>
       </td>
     <td align="center" width="200px">
-      <a href="https://github.com/KimJ6" target="_blank">
+      <a href="https://github.com/Luke0103" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/38881169?v=4" alt="Luke 프로필" />
       </a>
     </td>    
       </td>
     <td align="center" width="200px">
-      <a href="https://github.com/jungse8609" target="_blank">
+      <a href="https://github.com/noojam" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/57861332?v=4" alt="noojam 프로필" />
       </a>
     </td>    
       </td>
     <td align="center" width="200px">
-      <a href="https://github.com/anjihong" target="_blank">
+      <a href="https://github.com/voac" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/62923872?v=4" alt="장현빈 프로필" />
       </a>
     </td>     
       </td>
     <td align="center" width="200px">
-      <a href="https://github.com/Jimin-K04" target="_blank">
+      <a href="https://github.com/BeepBeepMaeae" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/137674190?v=4" alt="이천서 프로필" />
       </a>
     </td>
       </td>
     <td align="center" width="200px">
-      <a href="https://github.com/GaMaius" target="_blank">
+      <a href="https://github.com/EunGeunHi" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/201758889?v=4" alt="김창은 프로필" />
       </a>
     </td>
     <td align="center" width="200px">
-      <a href="https://github.com/GaMaius" target="_blank">
+      <a href="https://github.com/hyunho03" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/220556467?v=4" alt="이현호 프로필" />
       </a>
     </td>
     <td align="center" width="200px">
-      <a href="https://github.com/GaMaius" target="_blank">
+      <a href="https://github.com/ujboung" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/237536936?v=4" alt="이은교 프로필" />
       </a>
     </td>
     <td align="center" width="200px">
-      <a href="https://github.com/GaMaius" target="_blank">
-        <img src="" alt="박민정 프로필" />
+      <a href="https://github.com/Apptive-Game-Team" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/173584480?s=200&v=4" alt="박민정 프로필" />
       </a>
     </td> 
   </tr>
