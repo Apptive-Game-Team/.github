@@ -14,7 +14,7 @@ Here are some of the projects we are working on:
 | Project | Repo | Play |
 |---------|------|------|
 | **Cross The Line** | [📂 Repo](https://github.com/Apptive-Game-Team/Cross-The-Line) | - |
-| **Word Online** |[📂 Client](https://github.com/Apptive-Game-Team/WordOnlineClient)<br>[📂 Game](https://github.com/Apptive-Game-Team/WordOnlineServer)<br>[📂 Account](https://github.com/Apptive-Game-Team/AccountServer)<br>[📂 Matching](https://github.com/Apptive-Game-Team/WordOnlineMatching)<br>[📂 Admin](https://github.com/Apptive-Game-Team/WordOnlineAdmin) | [▶️ Play](https://word-online.vercel.app/)<br>[📱 Andorid](https://play.google.com/store/apps/details?id=com.team6515.wordonline) |
+| **Word Online** |[📂 Client](https://github.com/Apptive-Game-Team/WordOnlineClient)<br>[📂 Game](https://github.com/Apptive-Game-Team/WordOnlineServer)<br>[📂 Account](https://github.com/Apptive-Game-Team/AccountServer)<br>[📂 Matching](https://github.com/Apptive-Game-Team/WordOnlineMatching)<br>[📂 Admin](https://github.com/Apptive-Game-Team/WordOnlineAdmin) | [▶️ Game Ping](https://www.game-ping.kr/games/arcane-casters)<br>[▶️ itch.io](https://team6515.itch.io/arcane-casters)<br>[📱 Play Store](https://play.google.com/store/apps/details?id=com.team6515.wordonline) |
 | **Drilling** | [📂 Repo](https://github.com/Apptive-Game-Team/Drilling) | - |
 | **MORA** | [📂 Repo](https://github.com/Gimlocal/MORA) | [▶️ Play](https://gimlocal.github.io/MORA_Play/) |
 | **Avocado Survival** | [📂 Repo](https://github.com/Apptive-Game-Team/AvocadoSurvival) | - |
