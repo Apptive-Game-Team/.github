@@ -29,6 +29,7 @@ Here are some of the projects we are working on:
 |---------|------|------|
 | **Word Venture** | [📂 Repo](https://github.com/Apptive-Game-Team/WordVenture) | [▶️ Play](https://apptive-game-team.github.io/WordVenture_Play/) |
 | **Lucy** | [📂 Repo](https://github.com/Apptive-Game-Team/Lucy) |[▶️ Play](https://apptive-game-team.github.io/Lucy/)|
+| **Tori's Burger House** | [📂 Repo](https://github.com/Jinwook700/Toris-Burger-House) |[▶️ Play](https://www.game-ping.kr/games/toriburger)|
 | **Tangvivor** | [📂 Repo](https://github.com/Apptive-Game-Team/tangvivor) | - |
 
 
