@@ -13,7 +13,6 @@ Here are some of the projects we are working on:
 
 | Project | Repo | Play |
 |---------|------|------|
-| **GyeMong** | [📂 Repo](https://github.com/Apptive-Game-Team/GyeMong) | [▶️ Play](https://gye-mong.vercel.app/) |
 | **Cross The Line** | [📂 Repo](https://github.com/Apptive-Game-Team/Cross-The-Line) | - |
 | **Word Online** |[📂 Client](https://github.com/Apptive-Game-Team/WordOnlineClient)<br>[📂 Game](https://github.com/Apptive-Game-Team/WordOnlineServer)<br>[📂 Account](https://github.com/Apptive-Game-Team/AccountServer)<br>[📂 Matching](https://github.com/Apptive-Game-Team/WordOnlineMatching)<br>[📂 Admin](https://github.com/Apptive-Game-Team/WordOnlineAdmin) | [▶️ Play](https://word-online.vercel.app/)<br>[📱 Andorid](https://play.google.com/store/apps/details?id=com.team6515.wordonline) |
 | **Drilling** | [📂 Repo](https://github.com/Apptive-Game-Team/Drilling) | - |
@@ -31,6 +30,7 @@ Here are some of the projects we are working on:
 | **Lucy** | [📂 Repo](https://github.com/Apptive-Game-Team/Lucy) |[▶️ Play](https://apptive-game-team.github.io/Lucy/)|
 | **Tori's Burger House** | [📂 Repo](https://github.com/Jinwook700/Toris-Burger-House) |[▶️ Play](https://www.game-ping.kr/games/toriburger)|
 | **Tangvivor** | [📂 Repo](https://github.com/Apptive-Game-Team/tangvivor) | - |
+| **GyeMong** | [📂 Repo](https://github.com/Apptive-Game-Team/GyeMong) | [▶️ Play](https://gye-mong.vercel.app/) |
 
 
 ## Contact
