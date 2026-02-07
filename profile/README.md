@@ -18,7 +18,7 @@ Here are some of the projects we are working on:
 | **Drilling** | [📂 Repo](https://github.com/Apptive-Game-Team/Drilling) | - |
 | **MORA** | [📂 Repo](https://github.com/Gimlocal/MORA) | [▶️ Play](https://gimlocal.github.io/MORA_Play/) |
 | **Avocado Survival** | [📂 Repo](https://github.com/Apptive-Game-Team/AvocadoSurvival) | - |
-| **매추리** | [📂 Client](https://github.com/Apptive-Game-Team/MaechuriClient)<br>[📂 Server](https://github.com/Apptive-Game-Team/MaechuriMainServer)<br>[📂 AI](https://github.com/Apptive-Game-Team/MaechuriAIServer) | [▶️ Play](https://apptive-game-team.github.io/MaechuriClient/) |
+| [**매추리**](https://github.com/Apptive-Game-Team/Maechuri) | [📂 Client](https://github.com/Apptive-Game-Team/MaechuriClient)<br>[📂 Server](https://github.com/Apptive-Game-Team/MaechuriMainServer)<br>[📂 AI](https://github.com/Apptive-Game-Team/MaechuriAIServer) | [▶️ Play](https://apptive-game-team.github.io/MaechuriClient/) |
 
 ---
 
