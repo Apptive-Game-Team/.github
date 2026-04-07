@@ -115,8 +115,8 @@ Here are some of the projects we are working on:
       </a>
     </td>
     <td align="center" width="200px">
-      <a href="https://github.com/Apptive-Game-Team" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/173584480?s=200&v=4" alt="박민정 프로필" />
+      <a href="https://github.com/minjeong03030303" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/254885240?v=4" alt="박민정 프로필" />
       </a>
     </td> 
   </tr>
