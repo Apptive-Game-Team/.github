@@ -37,6 +37,137 @@ Here are some of the projects we are working on:
 
 
 ## Team Member
+### 2026-1
+<table>
+  <tr>
+    <td align="center">개발자</td>
+    <td align="center">개발자</td>
+    <td align="center">개발자</td>
+    <td align="center">개발자</td>
+    <td align="center">개발자</td>
+    <td align="center">개발자</td>
+    <td align="center">개발자</td>
+    <td align="center">개발자</td>
+    <td align="center">개발자</td>
+    <td align="center">개발자</td>
+    <td align="center">개발자</td>
+  </tr>
+  <tr>
+    <td align="center" width="200px">
+      <a href="https://github.com/BirdWhite" target="_blank">
+        <img src="https://github.com/BirdWhite.png" alt="BirdWhite 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/Nuna30" target="_blank">
+        <img src="https://github.com/Nuna30.png" alt="Nuna30 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/shin-seong-yuk" target="_blank">
+        <img src="https://github.com/shin-seong-yuk.png" alt="shin-seong-yuk 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/junyi04" target="_blank">
+        <img src="https://github.com/junyi04.png" alt="junyi04 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/Moranmorang" target="_blank">
+        <img src="https://github.com/Moranmorang.png" alt="Moranmorang 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/chloe06111" target="_blank">
+        <img src="https://github.com/chloe06111.png" alt="chloe06111 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/minjeong03030303" target="_blank">
+        <img src="https://github.com/minjeong03030303.png" alt="minjeong03030303 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/Umi0n" target="_blank">
+        <img src="https://github.com/Umi0n.png" alt="Umi0n 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/w00worldkup8-pixel" target="_blank">
+        <img src="https://github.com/w00worldkup8-pixel.png" alt="w00worldkup8-pixel 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/LLLeWi" target="_blank">
+        <img src="https://github.com/LLLeWi.png" alt="LLLeWi 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/wwd0108" target="_blank">
+        <img src="https://github.com/wwd0108.png" alt="wwd0108 프로필" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/BirdWhite" target="_blank">
+        BirdWhite
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Nuna30" target="_blank">
+        Nuna30
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shin-seong-yuk" target="_blank">
+        shin-seong-yuk
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/junyi04" target="_blank">
+        junyi04
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Moranmorang" target="_blank">
+        Moranmorang
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chloe06111" target="_blank">
+        chloe06111
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/minjeong03030303" target="_blank">
+        minjeong03030303
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Umi0n" target="_blank">
+        Umi0n
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/w00worldkup8-pixel" target="_blank">
+        w00worldkup8-pixel
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LLLeWi" target="_blank">
+        LLLeWi
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wwd0108" target="_blank">
+        wwd0108
+      </a>
+    </td>
+  </tr>
+</table>
+
 ### 2025-2
 
 <table>
