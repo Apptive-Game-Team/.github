@@ -18,7 +18,6 @@ Here are some of the projects we are working on:
 | **Drilling** | - | - |
 | **MORA** | [📂 Repo](https://github.com/Gimlocal/MORA) | [▶️ Play](https://gimlocal.github.io/MORA_Play/) |
 | **Avocado Survivor** | [📂 Repo](https://github.com/Apptive-Game-Team/AvocadoSurvival) | - |
-| [**매추리**](https://github.com/Apptive-Game-Team/Maechuri) | [📂 Client](https://github.com/Apptive-Game-Team/MaechuriClient)<br>[📂 Server](https://github.com/Apptive-Game-Team/MaechuriMainServer)<br>[📂 AI](https://github.com/Apptive-Game-Team/MaechuriAIServer)<br>[📂 Database](https://github.com/Apptive-Game-Team/MaechuriDatabase) | [▶️ Play](https://apptive-game-team.github.io/MaechuriClient/) |
 
 ---
 
@@ -31,6 +30,7 @@ Here are some of the projects we are working on:
 | **Tori's Burger House** | [📂 Repo](https://github.com/Jinwook700/Toris-Burger-House) |[▶️ Play](https://www.game-ping.kr/games/toriburger)|
 | **Tangvivor** | [📂 Repo](https://github.com/Apptive-Game-Team/tangvivor) | - |
 | **GyeMong** | [📂 Repo](https://github.com/Apptive-Game-Team/GyeMong) | [▶️ Play](https://gye-mong.vercel.app/) |
+| [**매추리**](https://github.com/Apptive-Game-Team/Maechuri) | [📂 Client](https://github.com/Apptive-Game-Team/MaechuriClient)<br>[📂 Server](https://github.com/Apptive-Game-Team/MaechuriMainServer)<br>[📂 AI](https://github.com/Apptive-Game-Team/MaechuriAIServer)<br>[📂 Database](https://github.com/Apptive-Game-Team/MaechuriDatabase) | [▶️ Play](https://apptive-game-team.github.io/MaechuriClient/) |
 
 
 ## Contact
