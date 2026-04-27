@@ -3,7 +3,7 @@
 Welcome to the official GitHub organization of Apptive Game Team!
 
 ## About Us
-Apptive의 산하 해적단입니다. 해치지 않아요.<br/>
+[Apptive](https://github.com/ApptiveDev)의 산하 해적단입니다. 해치지 않아요.<br/>
 We are pirate crew under [Apptive](https://github.com/ApptiveDev). We are totally harmless.
 
 ## Projects
@@ -14,7 +14,7 @@ Here are some of the projects we are working on:
 | Project | Repo | Play |
 |---------|------|------|
 | **Cross The Line** | [📂 Repo](https://github.com/Apptive-Game-Team/Cross-The-Line) | - |
-| **Word Online** |[📂 Client](https://github.com/Apptive-Game-Team/WordOnlineClient)<br>[📂 Game](https://github.com/Apptive-Game-Team/WordOnlineServer)<br>[📂 Account](https://github.com/Apptive-Game-Team/AccountServer)<br>[📂 Matching](https://github.com/Apptive-Game-Team/WordOnlineMatching)<br>[📂 Admin](https://github.com/Apptive-Game-Team/WordOnlineAdmin) | [▶️ Game Ping](https://www.game-ping.kr/games/arcane-casters)<br>[▶️ itch.io](https://team6515.itch.io/arcane-casters)<br>[📱 Play Store](https://play.google.com/store/apps/details?id=com.team6515.wordonline) |
+| **Word Online** |[📂 Client](https://github.com/Apptive-Game-Team/WordOnlineClient)<br>[📂 Game](https://github.com/Apptive-Game-Team/WordOnlineServer)<br>[📂 Account](https://github.com/Apptive-Game-Team/AccountServer)<br>[📂 Matching](https://github.com/Apptive-Game-Team/WordOnlineMatching)<br>[📂 Admin](https://github.com/Apptive-Game-Team/WordOnlineAdmin)<br>[🗄️ Database](https://github.com/Apptive-Game-Team/WordOnlineDatabase) | [▶️ Game Ping](https://www.game-ping.kr/games/arcane-casters)<br>[▶️ itch.io](https://team6515.itch.io/arcane-casters)<br>[📱 Play Store](https://play.google.com/store/apps/details?id=com.team6515.wordonline) |
 | **Drilling** | - | - |
 | **MORA** | [📂 Repo](https://github.com/Gimlocal/MORA) | [▶️ Play](https://gimlocal.github.io/MORA_Play/) |
 | **Avocado Survivor** | [📂 Repo](https://github.com/Apptive-Game-Team/AvocadoSurvival) | - |
@@ -30,7 +30,7 @@ Here are some of the projects we are working on:
 | **Tori's Burger House** | [📂 Repo](https://github.com/Jinwook700/Toris-Burger-House) |[▶️ Play](https://www.game-ping.kr/games/toriburger)|
 | **Tangvivor** | [📂 Repo](https://github.com/Apptive-Game-Team/tangvivor) | - |
 | **GyeMong** | [📂 Repo](https://github.com/Apptive-Game-Team/GyeMong) | [▶️ Play](https://gye-mong.vercel.app/) |
-| [**매추리**](https://github.com/Apptive-Game-Team/Maechuri) | [📂 Client](https://github.com/Apptive-Game-Team/MaechuriClient)<br>[📂 Server](https://github.com/Apptive-Game-Team/MaechuriMainServer)<br>[📂 AI](https://github.com/Apptive-Game-Team/MaechuriAIServer)<br>[📂 Database](https://github.com/Apptive-Game-Team/MaechuriDatabase) | [▶️ Play](https://apptive-game-team.github.io/MaechuriClient/) |
+| [**매추리**](https://github.com/Apptive-Game-Team/Maechuri) | [📂 Client](https://github.com/Apptive-Game-Team/MaechuriClient)<br>[📂 Server](https://github.com/Apptive-Game-Team/MaechuriMainServer)<br>[📂 AI](https://github.com/Apptive-Game-Team/MaechuriAIServer)<br>[🗄️ Database](https://github.com/Apptive-Game-Team/MaechuriDatabase) | [▶️ Play](https://apptive-game-team.github.io/MaechuriClient/) |
 
 
 ## Contact
