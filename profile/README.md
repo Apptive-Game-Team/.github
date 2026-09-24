@@ -17,7 +17,7 @@ Here are some of the projects we are working on:
 | **Arcane Casters** |[📂 Client](https://github.com/Apptive-Game-Team/ArcaneCastersClient)<br>[📂 Game](https://github.com/Apptive-Game-Team/ArcaneCastersGame)<br>[📂 Account](https://github.com/Apptive-Game-Team/AccountServer)<br>[📂 Matching](https://github.com/Apptive-Game-Team/ArcaneCastersLobby)<br>[📂 Admin](https://github.com/Apptive-Game-Team/ArcaneCastersAdmin)<br>[🗄️ Database](https://github.com/Apptive-Game-Team/ArcaneCastersDatabase) | [▶️ itch.io](https://theevilent.itch.io/arcane-casters)<br>[📱 Play Store](https://play.google.com/store/apps/details?id=com.team6515.wordonline) |
 | **Drilling** | - | - |
 | **MORA** | [📂 Repo](https://github.com/Gimlocal/MORA) | [▶️ Play](https://gimlocal.github.io/MORA_Play/) |
-| **Avocado Survivor** | [📂 Repo](https://github.com/Apptive-Game-Team/AvocadoSurvival) |  [▶️ itch.io](https://teamavo.itch.io/avocado-survivors)  [▶️ Steam](https://store.steampowered.com/app/5264890/Avocado_Survivor)|
+| **Avocado Survivor** | [📂 Repo](https://github.com/Apptive-Game-Team/AvocadoSurvival) |  [▶️ itch.io](https://teamavo.itch.io/avocado-survivors) <br> [▶️ Steam](https://store.steampowered.com/app/5264890/Avocado_Survivor)|
 
 ---
 
