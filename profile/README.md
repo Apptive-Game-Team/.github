@@ -37,6 +37,84 @@ Here are some of the projects we are working on:
 
 
 ## Team Member
+
+### 2026-2
+<table>
+  <tr>
+    <td align="center">개발</td>
+    <td align="center">개발</td>
+    <td align="center">기획</td>
+    <td align="center">기획</td>
+    <td align="center">아트</td>
+    <td align="center">아트</td>
+  </tr>
+  <tr>
+    <td align="center" width="200px">
+      <a href="https://github.com/kjw0701" target="_blank">
+        <img src="https://github.com/kjw0701.png" alt="kjw0701 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/seongju0056" target="_blank">
+        <img src="https://github.com/seongju0056.png" alt="seongju0056 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/heyjiho03" target="_blank">
+        <img src="https://github.com/heyjiho03.png" alt="heyjiho03 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/jinsky0102" target="_blank">
+        <img src="https://github.com/jinsky0102.png" alt="jinsky0102 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/abooba07" target="_blank">
+        <img src="https://github.com/abooba07.png" alt="abooba07 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/wxxdkfls-ai" target="_blank">
+        <img src="https://github.com/wxxdkfls-ai.png" alt="wxxdkfls-ai 프로필" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a>김정우</a>
+      <br>
+      <a href="https://github.com/kjw0701" target="_blank"> kjw0701 </a>
+    </td>
+    <td align="center">
+      <a>강성주</a>
+      <br>
+      <a href="https://github.com/seongju0056" target="_blank"> seongju0056 </a>
+    </td>
+    <td align="center">
+      <a>박지호</a>
+      <br>
+      <!-- <a href="https://github.com/heyjiho03" target="_blank"> heyjiho03 </a> -->
+    </td>
+    <td align="center">
+      <a>윤영진</a>
+      <br>
+      <!-- <a href="https://github.com/jinsky0102" target="_blank"> jinsky0102 </a> -->
+    </td>
+    <td align="center">
+      <a>문경민</a>
+      <br>
+      <a href="https://github.com/abooba07" target="_blank"> abooba07 </a>
+    </td>
+    <td align="center">
+      <a>정아린</a>
+      <br>
+      <a href="https://github.com/wxxdkfls-ai" target="_blank"> wxxdkfls-ai </a>
+    </td>
+    
+  </tr>
+</table>
+
 ### 2026-1
 <table>
   <tr>
